@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16",
-  "youtube": {"enabled": false, "message": "YouTube は準備中です（今後の更新で使えるようになります）"},
+  "updated": "2026-10-17",
+  "youtube": {"enabled": true, "message": ""},
   "twitch": {"enabled": true, "message": ""}
 }
